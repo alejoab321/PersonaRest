@@ -1,0 +1,14 @@
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.deps.json
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csprojAssemblyReference.cache
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.json
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.runtimeconfig.dev.json
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Datos.pdb
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.dll
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\bin\Debug\netcoreapp2.1\Sistema.Entidades.pdb
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.csproj.CopyComplete
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.dll
+C:\Users\Usuario\source\repos\WebApiPersona\Sistema.Datos\obj\Debug\netcoreapp2.1\Sistema.Datos.pdb
